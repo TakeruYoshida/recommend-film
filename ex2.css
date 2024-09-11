@@ -48,19 +48,19 @@ h2 {
 .search button{
     padding: 10px;
     border-radius: 5px 5px;
+    position: sticky;
+    top: 0;
+    left: 950px;
 }
 
 input{
-    display: inline-block;
-    width:800px;
-    background-color: gray;
-    color: black;
-    padding:7px;
-    margin-left: 500px;
-    /*box-shadow: 2px 2px 4px white;*/
-    border-color:rgb(230, 136, 14);
-    border-radius: 5px 5px;
-    border-width: 5px;
+    position: sticky;
+    top: 0;
+    left: 1000px;
+    background-color: rgb(184, 61, 8);
+    border: 2px solid #b1cc17;
+    padding: 10px;
+    
 }
 
 h3 {
