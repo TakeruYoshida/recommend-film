@@ -56,7 +56,7 @@ input{
     background-color: gray;
     color: black;
     padding:7px;
-    margin-left: 500px;
+    /*margin-left: 500px;*/
     /*box-shadow: 2px 2px 4px white;*/
     border-color:rgb(230, 136, 14);
     border-radius: 5px 5px;
